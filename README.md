@@ -1,4 +1,4 @@
-# Bootcamp Project 1: Expense Tracker
+Expense Tracker
 
 https://bootcamp-project-expense-tracker.surge.sh/
  
